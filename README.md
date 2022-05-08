@@ -4,5 +4,5 @@ Two simple JS programs I made that use huffman trees to compress files / folders
 
 ## How to use
 
-`node pack.js <FOLDER> <OUTPUT-FILE>` compresses the content of *FODLER* and writes it to *OUTPUT*.<br>
+`node pack.js <FOLDER> <OUTPUT-FILE>` compresses the content of *FODLER* and writes it to *OUTPUT-FILE*.<br>
 `node unpack.js <COMPRESSED-FILE> <OUTPUT-FOLDER>` extracts the files compressed in *COMPRESSED-FILE* and sputs them in *OUPUT-FOLDER*
